@@ -1,8 +1,8 @@
 {
-    "family": "flask-ecs-task",
+    "family": "ecs-task",
     "containerDefinitions": [
         {
-            "name": "flask-container",
+            "name": "ecs-container",
             "image": "<IMAGE1_NAME>",
             "cpu": 0,
             "portMappings": [
